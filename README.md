@@ -1,5 +1,9 @@
 # quarto-seminar
-Templates accompanying a seminar talk I gave on creating Quarto course materials for undergraduate mathematics courses.
+
+A seminar talk I gave on creating Quarto course materials for undergraduate mathematics courses.
+
+- The talk itself is in `html` format generated with Quarto.
+- Templates for lecture notes and problem sheets are in the accompanying folders.
 
 Link to Quarto software: <https://quarto.org/>
 
